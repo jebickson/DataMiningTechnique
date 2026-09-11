@@ -1,4 +1,4 @@
-## Data set:
+```
 @relation weather
 @attribute outlook {sunny,overcast,rainy}
 @attribute temperature {hot,mild,cool}
@@ -21,5 +21,4 @@ sunny,mild,normal,TRUE,yes
 overcast,mild,high,TRUE,yes
 overcast,hot,normal,FALSE,yes
 rainy,mild,high,TRUE,no
-
-
+```

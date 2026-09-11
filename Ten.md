@@ -1,3 +1,4 @@
+```
 @relation student
 @attribute attendance numeric
 @attribute marks numeric
@@ -13,3 +14,4 @@
 55,58
 92,95
 48,52
+```
